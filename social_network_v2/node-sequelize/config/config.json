@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "leviossa",
+    "password": 123456,
+    "database": "mydb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "leviossa",
+    "password": 123456,
+    "database": "mydb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "leviossa",
+    "password": 123456,
+    "database": "mydb",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
